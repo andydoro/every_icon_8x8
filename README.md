@@ -3,7 +3,7 @@ Every Icon 8x8
 
 displays every possible 8x8 icon on 8x8 LED matrix
 
-hardware:
+hardware
 -------
 
 * [Trinket 5V](https://www.adafruit.com/product/1501)
